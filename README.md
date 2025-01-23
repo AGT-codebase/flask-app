@@ -18,3 +18,5 @@ Commiting new changes.
 adding new changes.
 one extra line has been added
 practice makes perfect
+I like photography.
+I like to also go to the gym.
