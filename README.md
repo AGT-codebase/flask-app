@@ -13,3 +13,5 @@ docker tag simple-flask-app <container-repo>/simple-flask-app
 docker push <container-repo>/simple-flask-app
 
 docker run -d -p 8000:8080 -e APP_COLOR=<color-name> <container-repo>/simple-flask-app
+
+Commiting new changes.
