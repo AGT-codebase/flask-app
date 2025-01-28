@@ -21,7 +21,7 @@ with app.app_context():
     db.create_all()
 
 # Default course options
-course_options = ["DevOps", "Cloud Computing", "Data Science", "Machine Learning"]
+course_options = ["DevOps", "Cloud Computing", "Data Science", "Machine Learning", "Full Stalk Python Dev", "UI/UX Design"]
 color = os.environ.get('APP_COLOR')
 @app.route("/", methods=["GET", "POST"])
 def main():
